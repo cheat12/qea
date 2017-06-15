@@ -1,0 +1,2504 @@
+1. How should work be allocated to the team in an Agile project?
+  I. The Project Leader should give tasks to individuals to create challenges for them
+ II. Tasks should be randomly allocated using Planning Poker
+ II. Team members should self-select tasks
+ IV. The biggest tasks should be done by the Project Leader themselves
+Select one:
+  a.Only II
+  b.Only I-----------------ans
+  c.Only III
+  d.Only IV
+
+2.In SCRUM, when a testing done?
+
+I.At the end of the project, just before the release date as it is more efficient.
+II.During the sprint and at the end of the sprint,just before the sprint end date as it is more efficient.Select one:
+a.only I
+b.Only II-------------------ans
+c.Both I and II
+d.Neither I nor II
+
+3.A sprint Backlog is:
+Select one:
+a.A prioritized list of high level requirements handed over to the team by Product Owner.
+b.A A prioritized list of high level requirements handed over to the team by Scrum Master.
+---c.A set of high priority requirements taken by the team for the sprint.------------------ans
+d.A set of items that can be modified during the sprint.
+
+4.On what basis will you choose a framework for your tool?
+Select one:
+a.Re-usability of automation codes
+b.Minimal maintenance effort
+c.Execution efficiency
+d.All of the listed options--------------ans
+
+5.Automation testing is cost effective in which of the following areas?
+I.Resources
+II.Time
+Select one:
+a.Neither I nor II
+b.I
+c.II
+d.Both I and II---------------------ans
+
+6.Which of the following will NOT suit automation framework?
+Select one:
+a.None of the listed options
+b.Re usable
+c.Efficiency
+d.Maintenance effort will be higher-----------------ans
+
+7.Successful DevOps requires a new team dedicated to carrying out 
+deployment and optimization tasks.
+State True or False
+Ans-------True
+
+8.Speed to market is a competitive advantage.State True or False
+Ans--------True
+
+9.What is a way that DevOps can actually INCREASE your systems security?
+
+Select One:
+a.Mirrored Dev, text and production environment means more accurate testing
+b.Focus or quality up front
+c.Quick patch defects resulting in faster delivery pipeline
+d.All of the listed options--------------------------------ans
+
+10.If a user wants to display data from various modules,
+which type of graph should the user choose from the options listed below?
+
+Select one:
+a.None of the listed options
+b.Entity Graph----------------------ans
+c.Business View graph
+d.Both Entity and Business View graph
+
+11.From the given options,Identify the valid option that lists 
+out all architectural components of HP ALM
+
+Select one: 
+a.Client,Application Server,Database Server----------------ans
+b.Client,Application Server,Print Server,Chat Server
+c.Client,Application Server
+d.Client,Application Server,Database Server,print Server
+
+12.In Defects module,while reviewing and deciding which new defects 
+need to be fixed,the QA manager assigns them to the appropriate ____________
+
+Select one:
+a.Requirements
+b.Release and cycle------------ans
+c.Report
+d.Defect and cycle
+
+13.Which app is built for a specific platform with the platform SDK tools and languages, typically provided by the platform vendor?
+
+select one:
+a.Native------------------ans
+b.Hybrid
+c.Web-based
+d.None of the listed options
+
+14.Which of the following are like native apps which run on the device and is written with web technologies 
+(HTML,CSS and Javascript)?
+
+select one:
+a.Web-based
+b.None of the listed options
+c.Hybrid--------ans
+d.Native
+
+15.Choose the MVC Frameworks that are executable at the client level from the below
+Select one or more:
+a.Angular js-----
+b.Struts 2.0
+c.Backbone-------
+d.JSP
+
+16.Model-View-Controller (MVC) is a software architecture pattern for developing windows application.It is handled by three main logical components.
+State True or False
+Ans------False
+
+17.The View in MVC sends the Click actions to Model
+State True or False
+Ans------False
+
+18.The challenges of traditional models of non-functional testing have been conquered through which of the following?
+select one or more:
+a.Security Testing methodologies----------ans
+b.Mobile accessbility testing methodologies
+c.Web accessbility testing methodologies
+d.Performance Testing methodologies------------ans
+
+19.Identify the assistive tools used by visually challenged users from the following
+
+Select one:
+a.Dragon Naturally speaking
+b.Achecker
+c.Read and Write gold
+d.NonVisual Desktop Access (NVDA)------------------------ans
+
+20.What is Penetration Testing?
+
+Select one:
+a.Vulnerability scanning manual assessment and exploitation---------------ans
+b.Automation scanning using security tools
+c.Vulnerability assessment in ethical manner
+d.Vulnerability scanning and manual assessment
+
+21.Student name is an attribute and a students First name and Last name are data.State True or False
+
+Ans-----------False
+
+22.Which of the below technique provides us a way to define similar behavior to work with different types of data,by writing different versions of a method for each datatype that is used?
+
+Select one:
+a.Encapsulation
+b.Overloading------ans
+c.Run time binding
+d.Abstraction
+
+23.Project team should involve testing team during 'Code Walkthrough and Review' activity is a pre-requiste, fro which of the below Shift Left Lever?
+Select one;
+a.Pre QA Testing
+b.Continuous Integration
+c.Code Profiling------ans
+d.Early Testing
+
+24.In Shift Left approach, Testing activites usually carried out in testing phase of waterfall model are moved to whih of the earlier phases listed below?
+
+Select one:
+a.Requirements
+b.All of the listed options------ans
+c.Development
+d.Design 
+
+25.Which of the following is the automation of the Build and Deployment Process, which in turn will trigger the automated Smoke Test Suite?
+
+select  one:
+a.Continuous Integration-------ans
+b.Early Automation
+c.Coding Profiling
+d.End to End Automation
+
+26.what are the advantages of adopting Shift Left right concept in testing a product or an application?
+
+Select one or more:
+a.Reduced Testing timeline
+b.Reduced cost-----------ans
+c.Improved quality------------
+d.Faster time to market-------------
+
+27.Interactions between Objects take placein which diagram?
+
+Select one:
+a.Class
+b.State
+c.Component
+d.Collaboration----------------ans
+
+28.Unified Modeling Language(UML) , is a standard language for designing and documenting a system in an object oriented manner.
+State True or False.
+
+Ans------True
+
+29.Which of the structural diagram best defines the replaceable parts of a system?
+
+Select one:
+a.Deployment diagrams
+b.Component diagrams---------------ans
+c.Class diagrams
+d.Package diagrams
+
+30.Statement Coverage will NOT check for which of the following?
+
+Select one:
+a.Missing Statements---------------ans
+b.Dead Code
+c.Unused Branches
+d.Unused Statement
+
+31."Inserting some print statements in between to check whether the program control passes through all statements and loops" is a type ofSelect one:
+a.Code Coverage testing
+b.Dynamic White Box testing--------
+c.Static White Box testing
+d.Code Review
+
+32.What is the type of testing employed in the below scenerio?
+
+Codes for two units/modules are studied for designing test cases and actual tests are conducted using the exposed interfaces.
+
+Select one:
+a.Grey Box testing
+b.White Box testing
+c.Black Box testing
+d.Integration testing-----------
+
+33.When is White Box Testing performed?
+
+Select one:
+a.All of the listed options
+b.Early in the testing process--------------
+c.Later stages of testing
+d.Maintenance and production support
+
+34.Service transport, XML Messaging,Service Description and Service Discovery are four layers of which of the following?
+
+Select one:
+
+a.Web service implementing client components
+b.Web service supporting repository
+c.Web service protocol stack-----
+d.Web service supporting request and response components
+
+35.The core components,registry and repository,business processes,trading partner agreements are defined in which of the following standards of web service
+
+Select one:
+a.WSDL
+b.UDDI
+c.SOAP
+d.e-business XML(ebXML)-----
+
+36.Which of the following statements are true?
+Select one or more:
+a.In an RPC-based communication model a service client invokes the exposed method and a responce is NOT returned
+b.In an RPC-based communication model a service client invokes the exposed method and a responce is returned
+c.In a messageing-based communication model, the client sends an XML document and the server application receives the XML as a W3C Document object for processing. It is MANDATORY for the service to send a response back to the client
+d.In a messageing-based communication model, the client sends an XML document and the server application receives the XML as a W3C Document object for processing. It is NOT MANDATORY for the service to send a response back to the client
+ans. b,d
+
+37.What are the key features of Risk Based Testing (RBT)?
+a.Identifies critical defects at an early stage of testing
+b.Increase the Time-to-Market
+c.All of the listed options--------
+d.Reduces QA cost
+e.Increases involvement between Business 
+
+38.How can we improve the quality of application by using Risk Based Testing(RBT)?
+Select one or more:
+a.Prioritize bussiness functionalities
+b.Provide visbility into the risk of delivery (Go Live) based on the system stability at various levels of testing
+c.Spend high effort high cost               
+d.Test at critical business processes and associated critical sub processes thoroughly
+ans-a,b,d
+
+39.What is the Formulae for Probability of Failure?
+Select one:($=Summation)
+a.$(Probability Risk Factor Weightage/$(Probability Risk Factor Value) 
+b.$(Probability Risk Factor Value)/$(Probability Risk Factor Weightage/
+c.$(Probability Risk Factor Weightage * Probability Risk Factor Value)/$(Probability Risk Factor Value)
+c.$(Probability Risk Factor Weightage * Probability Risk Factor Value)/$(Probability Risk Factor Weightage)
+ans-d
+
+40.RISE= Risk Inspired Scenario Evaluator
+State True or False
+Select one:
+a.True-----
+b.False
+
+
+What are the items required for the RISE Workflow?
+Select one:
+a. Requirement and functionality risk analysis
+b. Overall Test Coverage
+c. All of the listed options*******************
+d. RBT Planning
+
+Requirements are prioritized in the Conventional Testing approach.
+State True or False.
+Select one
+True*************
+False
+
+Which of the following is the right tool/ framework that is Cognizant's utility and is used only for Risk Based Testing (RBT)?
+Select One:
+a. OAT
+b. All Pairs
+c. TNO
+d. RISE***********
+
+RISK=Rise Inspired Scenario Evaluator
+State True or False.
+Select one
+True*************
+False
+
+
+Which of the following is a directory service where enterprises, register and search for web services?
+Select one:
+a. WSDL
+b. Protocols of SOAP
+c. UDDI*******************
+d. None of the listed options
+
+Which of the following statements are TRUE?
+Select one or more:
+a. In an RPC based communication model, a service client invokes the exposed method and a response is returned***********************
+b. In a messaging-based communication model, the client sends an XML document and the sewer application receives the XML as a W3C Document object for processing. It is MANDATORY for the service to send a response back to the client
+c. ln a messaging-based communication model, the client sends an XML document and the sewer application receives the XML as a W3C Document object for processing. It is NOT MANDATORY for the service to send a response back to the client*************************
+d. In an RPC-based communication model, a service client invokes the exposed method and a response is NOT returned
+
+Which of the following directory of web service interface is described by WSDL?
+Select one:
+a. HTTP
+b. XML
+c. UDDI*****************
+d. DNS
+
+The process of examining the source code of a project by an unbiased engineer, to validate the design and implementation of a product at the most basic level is called:
+Select one:
+a. Black Box testing.
+b. Grey box testing.
+c. Code Review.*********************
+d. Unit testing.
+
+Code Coverage is used as a measure of which of the following?
+Select one:
+ a. Time Spent Testing
+ b. Defects
+ c. Test Effectiveness******************
+ d. Trends analysis
+
+What are the prerequisites for white box testing?
+Select one:
+a. Access to the application source code*****************
+b. Low-level design documents
+c. Non-functional speci?cations
+d. Brief requirement
+
+Why might you place an annotation, or note, on a diagram?
+Select one:
+a. Annotations should only be used when a product owner will view the diagram
+b. Annotations have been deprecated and should never be used on new diagrams
+c. To explain details that might be difficult to model or read from the diagram*****************
+d. An annotation is required on all diagrams to state the name and author of the diagram
+
+Interactions between objects take place in which diagram?
+Select one:
+a. State
+b. Collaboration***************
+c. Class
+d. Component
+
+Component diagrams are useful with teams of larger size.
+State True or False.
+Select one:
+True*************
+False
+
+Shift Left is to enable Early Defect detection.
+State True or False.
+Select one:
+True**********
+False
+
+What are the advantages of adopting Shift Left right concept in testing a product or an application?
+Select one or more:
+a. Improved quality*********
+b. Faster time to market***********
+c. Reduced cost*************
+d. Reduced Testing timelines
+
+Shift Left model approach of quality assurance is a lot like Reactive care.
+State True or False.
+Select one:
+True
+False*****************
+
+Why is it important for programmers to use object-oriented programming to develop computer systems?
+Select one or more:
+a. Focusing on objects makes it easy for programmers to understand complex things*********
+b. Objects enable programmers to ignore details that they are not interested in**********
+c. Attributes and behaviors need to be defined in one object and other objects that 
+   require those attributes and behavior can inherit the object******************
+d. Objects enable programmers to look at details that are of interest to us
+
+Identify the type of inheritance in Which a Child inherits from multiple Parents, but no relationship exists among those Parents
+Select one:
+a. Simple inheritance
+b. Polymorphic inheritance
+c. Parent-Child inheritance
+d. Multiple inheritance*******************
+
+What is Shift Left Testing?
+Select one:
+a. All of the listed Options***********************
+b. Technology used to automate processed and virtualize components
+c. An effective means to perform testing in parallel with development
+d. Development, Testing, Operational team work together to plan, execute and deliver the end product
+
+
+Identify the CORRECT order of the stages of software Development Life CYCLE from the following
+Select one:
+a. Requirements Analysis, Design, Development, Testing, Release and Maintenance****************
+b. Design, Requirements Analysis, Development, Testing, Release and Maintenance
+C. Requirements Analysis, Development, Design, Testing, RGKEBSG and Maintenance.
+d. Design, Requirements Analysis, Development, Testing, Maintenance and Release
+
+
+A model could be a single object, or a structure of objects.
+State True of False.
+Select one:
+True*****************
+False
+
+Volume testing checks on which of the following?
+Select one:
+a. Robustness and reliability of the system when handling large data*********************
+b. Stability and reliability of the system
+c. Most complex situations
+d. How the application scales with increase in number of users
+
+Identify the challenges in the traditional models of non-functional testing from the following
+Select one or more
+a. Testing can be kicked off immediately
+b. Testing tool dependency************
+c. Testing is performed only in client locations
+d. Ownership and maintenance of the tools and test infrastructure****************
+
+
+iPhone Simulator does not emulate an iPhone processor, disk drive or memory constraints
+State True of False.
+Select one:
+True************************
+False
+
+The View in MVC sends the button Click actions to Model.
+State True or False
+Select one:
+True
+False*********************
+
+Choose the Golden Rule(s) for MVC from the following.
+Select one or more:
+a. The model represents the data and does nothing else***************
+b. A view generates output based on the model changes
+c. The model does NOT depend on the controller or the view****************
+d. A Controller sends the command to the model
+
+
+You can periodically update defects directly in which of the following‘?
+Select one:
+a. Defect details dialog box only
+b. Defect grid or Defect details dialog box****************
+c. Defects grid only
+d. none of the listed options
+
+In Requirements module Of HP ALM requirement related topics are recorded by creating which of the following?
+Select one:
+a. Requirements Plan
+b. Requirements tree*******************
+c. Requirements generator
+d. Requirements cycle
+
+Which of the following is the integrated development environment that manages your application projects and lets to edit, complete, run and debug code?
+Select one:
+a. Xcode*********************
+b. None of the listed options
+c. DDMS
+d. Mobile Device Management (MDM)
+
+
+Identify the popular Devops tool from the following.
+Select one or more
+a. GIT*********
+b. Docker***********
+c. Nagios***************
+d. ECLIPSE
+e. Visual Studio 
+
+Coverage analysis view displays which of the following information?
+Select one or more
+
+a. Number of test cases which have failed and passed*****************
+b. Number of defects logged against each requirement
+c. Number of test cases which have not been yet executed
+d. Number of requirements which have been covered and not covered*******************
+
+
+It is possible to automate an application with automation framework but without using any tool
+State True or False.
+Select one:
+True
+False***********************
+
+What is a way that DevOps can actually INCREASE your systems security?
+Select one:
+a. Quick patch defects resulting in faster delivery pipeline
+b. Mirrored dev, test, and production environments means more accurate testing
+c. All of the listed options***********************
+d. Focus on quality up front
+
+Inconsistent environments can be a bottleneck to ?ow?
+State True or False.
+Select one:
+True-------------
+False
+
+
+Which agile methodology has "Stop starting, Start finishing" as one of the key philosophies?
+Select on
+a. Extreme Programming
+b. DSDM
+c. FDD
+d. Scrum
+e. Kanban************************
+
+Which of the following are NOT the features of good framework?
+Select one:
+a. Maximum maintenance effort***********************
+b. Detailed reporting mechanism
+c. Maximum code reusability
+d. Test data externalization
+
+
+Which of the following are basic necessities for an automation approach?
+Select one:
+a. Repeatable
+b. Traceable
+c. All of the listed options*************************
+d. Efficient
+
+In SCRUM, when is testing done?
+I. At the end of the project, just before the release date as it is more ef?cient.
+II. During the sprint and at the end of the sprint, just before the sprint end date as it is more ef?cient.
+Select one:
+a. Only I*********************
+b. Only I
+c. Both I and II
+d. Neither I nor II
+
+
+Which of the following statements are TRUE With respect to SCRUM meeting?
+I. During the scrum meeting each team member will update 3 points (What he did since last scrum meeting, what is he going to do till tomorrow's meeting, any impediments)
+II. Nothing but a status meeting where the team updates the status to the management on daily basis
+Ill. All members including the stakeholders can speak in the scrum meeting
+IV .Team will update the sprint burn down chart
+Select one:
+a. Only ll
+b. Only III
+c. I and IV*****************
+d. Only IV
+e. Only l
+
+Which of the following types of errors are missed by black-box testing and can be uncovered by white-box testing?
+I. Behavioral errors
+II. Logic errors
+III. Performance errors
+IV. Typographical errors
+Select one:
+a. II
+b. III
+c. Both II and IV*********************
+d. I
+e. IV
+
+
+1.Risk Inspired Scenario Evaluator (RISE) is a qualitative Risk Based Testing Utility, which enables the Business and Testing to
+prioritize requirements according to importance.
+State True or False.
+Select one:
+a.True*****************
+b.False
+
+
+2.What i5 the Formulae for Probability Of Failure?
+select one:
+a. Z (Probability Risk Factor Weigntage * Probability Risk Factor Value) / Z (Probability Risk Factor Value)
+b. z (Probability Risk Factor Weightage/ Z (Probability Risk Factor Value)
+c. Z (Probability Risk Factor Weightage * Probability Risk Factor Value) / Z (Probability Risk Factor Weightage)******************
+d. Z (Probability Risk Factor Value)! Z (Probability Risk Factor Weightagel
+
+
+
+3.rise = RiSK inspired Scenario evaluator
+State TrUE Or false
+Select one:
+a. True****************
+b. False
+
+
+4.Which of the following statements are TRUE?
+select one or more:(check box)
+a.In an RPC-based communication model,a service client invokes the EXPOSEd method and a response i5 NOT returned.
+b.In a messaging-based communication model, the client sends an XML document and the server application receives
+the XML as a W3C Document object for processing. It is NOT MANDATORY for the service to send a response back to the
+client.******************************
+c. In a messaging-based communication model, the client sends an XML document and the server application receives the
+XML as a W3C Document object for processing. It is MANDATORY for the service to send a response back to the client
+d.In an RPC-based communication model, a service client invokes the exposed method and a response is returned.*****************************
+
+
+5.What are the items required for the RISE workflow?
+Select one:
+a. All of the listed options******************
+b. RBT Planning
+c. Overall Test Coverage
+d. Requirement and functionality risk analysis
+
+
+6.Registry services such as managing information about service providers, service implementations, and service metadata is
+provided by which of the following?
+Select one:
+a. UDDI*****************
+b. XML
+c. REST
+d. WSDL
+
+
+7.Web Services describe architecture based on which of the following?
+Select one:
+a. None of the listed options
+b. Reusable Application Components
+c. REST*****************
+d. Remote Procedure Calls
+
+
+
+8.For White Box Testing, the basis of test cases is detail design document.
+State True or False.
+Select one:
+a.True*************
+b.False
+
+
+9.What are the limitations Of white bOX testing?
+Select one:
+a. White box testing is not effective in few cases
+b. All Of the listed options*************
+c. Selecting important logical paths and data structure for testing is practically impossible and ineffective
+d. Exhaustive testing is impossible for large systems
+
+
+10.What are the prerequisites for white box testing?
+select one:
+a. Non-functional specifications
+b. Low-level design documents
+c. Brief requirement
+d. Access to the application source code*************
+
+
+11.Which Of the following iS the Odd one out from the f0llOWing?
+Select one:
+a. Glass box
+b. While box
+c. Functional*****************
+G. structural
+
+
+12.Component diagrams are useful with teams of larger size.
+State True or False.
+Select one:
+a.True**********
+b.false
+
+
+
+13.Which Of the following types Of diagrams are related to behavioral modeling?
+Select one:
+a. Sequence and Component
+b. Component and Class
+c. Use Case and Sequence**************
+d. Class and Use Case
+
+
+14.Which of the behavioral diagrams most resembles a flow chart?
+select one
+a. state diagrams
+b. Activity diagrams******************
+c. Sequence diagrams
+d. Use Case diagrams
+
+
+
+15.What is the name of Cognizant proprietary tool that helps in modeling the requirements into activity diagrams and helps in
+automatic test case generation and regression suite identi?cation using in-built path traversal algorithm?
+select one:
+a.ADPART************
+b.All pairs
+C.RISE
+d.TNO
+
+
+16.What iS Shift Left Testing?
+Select one:
+a. All of the listed options***********
+b. Technology used to automate processed and virtualize components
+c. Development, Testing, Operational team work together to plan. execute and deliver the end product
+d. An effective means to perform testing in parallel with development
+
+
+
+17.Quality of a product is correlated to the number of defects ,as well as the limitations imposed by time and money.
+State True or False.
+Select one:
+a.True***********
+b.False
+
+
+
+18.Identify the type of polymorphism in which no time is lost in binding when the program runs i.e. binding is completed when the
+executable program is created.
+Select one:
+a. late binding polymorphism
+b. early binding polymorphism
+c. compile-time polymorphism*************
+d. run-time polymorphism
+
+
+19.Identify the two things which are required to define an object.
+select one or more:(check box)
+a. Characteristic Of an 0bjeCT************
+b. Object body
+c. System of the Object
+d. Action that an object is capable of performing***********
+
+
+20.What iS the objective Of carrying out defect Prevention activities in a testing cycle?
+Select one or more:(check box)
+a. To eliminate all defects in project
+b. To minimize the number of defects and their severe impact on projects.**********
+c. To address root causes of defects to prevent their occurrence later***********
+d. To identify defective modules and defer them from development
+
+
+21.In ATAAS, how are units calculated?
+select one:
+a. based on number Of functional flOW
+b. based on number Of images
+c. All of the listed options************
+d. Based on number of pages
+
+
+22.A model could be a single object, or a structure of objects
+State true or false
+Select one:
+a.True***********
+b.false
+
+
+23.Choose the assistive tools used by physically challenged users from the following
+
+Select one Of more:(check box)
+a. Dragon Natural Speaking*******
+b. Bluetooth Keyboard*********
+c. JAWS
+d. Nonvisual Desktop Access***********
+
+
+24.Load/Demand are which of the followmg types?
+Select one:
+
+a. High, Low
+b. Average, Peak**************
+c. Direct, Indirect
+d. individual, Organization
+
+
+
+25.Performance testing, GUI testing, and compatibility testing should be done using actual devices. Even though these tests can
+be done using emulators, testing with actual devices is recommended
+State True or False.
+Select one:
+a.True*****************
+b.False
+
+
+26.Choose the statements that apply to controller from the following.
+Select one or more:(check boxes)
+a. Controller interprets user interactions**********
+b. Controller represents the data
+c. Controller displays the model data
+d. Controller requests data from Model*****************
+
+
+
+27.The MVC Web Architecture is basically an Interaction between Browser, Page and Database.
+State True or False.
+Select one:
+a.True**************
+b.false
+
+
+
+28.In Requirements module of HP ALM, requirement related topics are recorded by creating which of the following?
+Select one:
+a. Requirements cycle
+b.  Requirements tree******************
+c. Requirements generator
+d. Requirements plan
+
+
+29.From the given options identify the valid option that lists out all architechtural components Of HP ALM.
+Select one:
+a. Client; Application Server;
+b. Client; Application Server; Database Sewer:*********************
+c. Client; Application Sewer; Print Sewer; Chat Sewer
+d. Client; Application Sewer; Database Sewer; Print Sewer;
+
+
+30.Which of the following are like native apps which run on the device and is written with web technologies (HTML5, CSS and
+JavaScript)?
+Select one:
+a. Web-based
+b. Native
+c. None of the listed options
+d. Hybrid******************
+
+
+
+31.What is the difference between over-production waste and over-processing waste?
+Select one:
+a. Over-production is doing more work than needed; over-processing is making more product than needed
+b. None of the listed options
+c. They are the same, but just differ in magnitude of the waste
+d. Over-production is making more product than needed; over-processing iS doing more WorK then needed*****************
+
+
+32.The Project reports generated in HP ALM cannot be customized as per the template required for the report.
+State True Of False.
+Select one:
+a.True
+b.False**************
+
+
+
+33."Each test contributes to the specification of desired behavior". Which is the feature, pertaining to automation testing?
+Select one:
+a.Concise
+b.RObust
+c.Sufficient
+d.Necessary******************
+
+
+
+
+34.What is Continuous testing in DeVOPS?
+I. Testing is done throughout the process starting from Dev to Prod
+II. Testing is done only in Testing phase
+Select one:
+a.Only I*********************
+b.Only II
+c.Neither I nor II
+d.Both I and II
+
+
+
+35.Speed to market is a competitive advantage.
+State True or False.
+Select one:
+a.True********************
+b.False
+
+
+36.Identify an Agile methodology which mandates engineering practices like Automation Test driven development etc
+Select one:
+a.FDD
+b.Kanban
+c.Extreme Programming****************
+d.Scrum
+
+
+37.Which Of the following is the difference between traditional PM and Agile PM?
+l. Traditional PM - Project management of?ce standardizes the processes
+Agile PM - Project Team facilitated by the Scrum Master is responsible for de?ning implementing and continuously improving
+the processes. Project manager supports the team to achieve this
+ll. Traditional PM - Tracks and reports progress Manages overall cost and schedule
+Agile PM - Project Team facilitated by the Scrum Master is responsible for tracking and monitoring their own progress Burn
+down chart is part of the process Project manager supports the team to overcome road blocks
+lll. Traditional PM -Project team is responsible for functional management of team members including assigning tasks
+obtaining commitments and making any functional decisions
+Agile PM - Functional Managers provide direct management of all team members in the project
+Select one:
+     
+
+
+a. Only ll
+b. I and II******************
+c. Only l
+d. Only Ill
+e. I, II, and Ill
+
+
+38.Who is responsible for prioritizing the product backlog?
+
+
+a.project manager
+b.product owner*************
+c.lead developer
+d.tester
+
+
+39.Automation testing is cost effective in which of the following areas?
+
+1.resources
+2.time
+
+select one
+a.1
+b.2
+c.neither 1 nor 2
+d.both 1 and 2.***********
+
+
+
+40.What would be the effects of not using an automation framework during automation?
+
+a.integrates with other tools
+b.robust error handling
+c.increase in maintenance cost**************
+d.none of the listed option.
+
+
+1> What are the key features ot ADPART?
+Select one:
+a. Includes Model business ?ows
+b. Performs regression analys
+c. All of the listed options ##########
+d. Generates rule based test cases
+e. Helps ‘n tracing requiements
+
+2> Risk Based Testing (RBT) helps a project to balance risk with project constraints such as, schedule, resource, and cost,
+State True or False.
+Select one:
+a True #########
+b False
+
+
+3> What the Formulae for Probabily of Failure?
+Select one:
+a.E(Probability Risk Factor Weightage/ E(Probability Risk Factor value)
+b.E(Probability Risk Factor Weightage * Probability Risk Factor Value)/E(Probabity Rk Factor value)
+c.E(Probability Risk Factor Vall.le)/E(Probability Risk Factor Weightage/
+d.E(Probabity Rk Factor Weightage' Probabity Risk Factor Value)/E(Probabily Risk Factor Weightage) ########
+
+
+4> What is ADPART?
+Select one:
+a. A statistical way of testing pai we ilteractions
+b. None of the listed options
+c. A quantitative Risk Based Testitg Utility, which enables the Business and Tesfng to prioritize requiements accordilg to inportance
+d. A model driven approach towards test case generation and regression suite identification #########
+
+
+5> Component diagrams are useful with teams of larger size.
+State True or False.
+Select one:
+a True ###############
+b False
+
+
+6> Why might you place an annotation, or note, on a diagram?
+Select one:
+a. An annotation is requied on all diagrams to state the name and author of the diagram
+b. Annotations should only be used when a Product Owner will view the diagram
+c. To explain delais that might be difficult to model or read from the diagram ############
+d. Annotations have been deprecated and should never be used on new diagrams
+
+
+7> Which of the folovwing types of errors are missed by black-box testing and can be uncovered by whke-box testing?
+i. Behavioral errors
+ii. Logic errors
+iii. Performance errors
+iv. Typographical errors
+Select one:
+a.I
+b.II
+c.IV
+d.III
+e.Both II and IV ###########
+
+
+
+8> Interactions between Objects take place in which diagram?
+Select one:
+a.State
+b.Class
+c.Component
+d.Collaboration ########
+
+9> Component diagrams are useful with teams of larger size.
+State Tnie or False.
+Selectone:
+O True ##########
+O False
+
+10> Why might you place an annotation, or note, on a diagram?
+Select one:
+a. An annotation is requied on all diagrams to state the name and author of the diagram
+b. Annotations should only be used when a Product Owner wl view the diagram
+c. To explain detais that might be di?icult to model or read from the diagram #############
+d. Annotations have been deprecated and should never be used on new diagrams
+
+
+
+11> What is the objective of carrying out Defect Prevention activities in a testing cycle?
+Select one or more:
+a. To eliminate al defects in project
+b. To minimize the number of defects and their severe impact on projects.###########
+c. To identify defective modules and defer them from development
+d. To address root causes of defects to prevent thei occurrence later ##########
+
+12> What is the name of Cognizant proprietary tool that helps in modeling the requirements into activity diagrams and helps in automatic test case generation and regression suite
+identi?cation using in-buit path traversal algorithm‘?
+Select one:
+a.ADPART #############
+b.TMO
+c.All pairs
+d.RISE
+
+
+13> Project team should involve testing team during ‘Code Walkthrough and Review‘ activity a prerequisite. for which of the below Shift Left Lever?
+Select one:
+a. Early Testing
+b. Continuous Integration
+c. Pre QA Testing
+d. Code Profiling ############
+
+
+14> A user can add a new defect to an HP ALM project from any module at any stage
+  of the testing process.
+State True or False.
+Select one:
+a True #######
+b False
+
+15> From the given options, identify the valid option that lists out all architectural
+components of HP ALM.
+Select one:
+a. Client; Application Server;
+b. Client; Application Server; Database Server; ###########
+c. Client; Application Server; Database Server; Print Server;
+d. Client; Application Server; Print Server; Chat Server
+
+16> iPhone Simulator does not emulate an iphone processor,disk drive or memory constraints.
+State True of False.
+Select one:
+a. True ##########
+b. False
+
+17> Which of the following testing is an open source functional testing tool, designed for testing ios and android native application, using record and playback methods?
+Select one:
+a. Activity Testing tool
+b. Monkey Tool---------------
+c. Robotium Tool
+d. Selenium Tool 
+
+
+18> Inconsistent envionments can be a bottleneck to flow?
+State True or False.
+a. true ########
+b. false
+
+19> Which collaboration tool makes the most sense for persistent Information?
+Select one:
+a. None of the listed options
+b. Slack
+c. Skype
+d. GitHub Wiki #############
+
+20> What is the difference between over-production waste and over-processing waste?
+Select one :
+a. None of the listed options
+b. Over-production is doing more work than needed; over-processing is making more product than needed
+c. They are the same, but just differ in magnitude ofthe waste
+d. Over-production is making more product than needed; over-processing is doing more work than needed######
+
+21> A defect can be linked to an entity like Run Step or Test or Run Step:
+Select one:
+a. indirectly only.
+b. directly or indirectly.########
+c. none of the listed options.
+d. directy only.
+
+
+
+22> Which of the following are suitable candidates for automation?
+l.  Verify Large number of records in a retail database.
+ll. Login functionality for 5 users to be tested only once.
+lll.Verifyiig bank accounts for n number of iterations.
+Select one:
+a, Ont; ii
+b. Only iii
+c. Both i and iii ########
+d. Only i
+
+23> Automation testing increases which of the following for an application?
+I. Reliabiity
+ii. Throughput
+iii. Quality
+Selectone:
+a.ii
+b.iii
+c.Both i and iii ##########
+d.i
+
+24> Test tool compatibiity with the application and test environment is done in which of the following phase?
+Select one or more:
+a. Test planning,design and development************
+b. Test Planning
+c. Test execution
+d. Test tool acquistion #########
+
+
+25> Identify an Agile methodology which mandates engineering practices like Automtion, Test driven development etc.
+Select one:
+a. Scrum
+b. Extreme Programming #####
+c. Kanban
+d. FDD
+
+26>‘Velocity‘ is a measure of which of the following?
+i.  Customer buy-in (Entire Story points given by stakeholders)
+ii. Project progress (Number of story points that a scrum team can have accepted by the product owner)
+iii.Executive support(Requirements mentioned in Project Scope document)
+iv .Risk mitigation(Number of risk and issue components)
+Select one:
+
+a.Only iv
+b.i and iii
+c.0nly i
+d.Only ii#############
+
+
+27>A Sprint Backlog is
+
+Select one:
+a. a prioritized list of high level requirements handed over to the team by Product Owner,
+b. a set of items that can be modified during the sprint.
+c. a set of high priority requirements taken by the team for the sprint.***************
+d. a prioritized list of high level requirements handed over to the team by Scrum Master.
+
+28> In some case ,controller and view can be same object
+state true or false
+a.true ######
+b.false
+
+29> choose the MVC framework that are executable at the client level from the below
+select one or more
+
+a.struts 2.0
+b.jSP
+c.AngularR js #############
+d.backbone ############
+
+
+31> load depends on which of the following factors
+select one or more
+
+a. seasonal nature of business ############
+b. processor configuration 
+c. all of the listed
+d. user work practices ############
+
+32> The user who authorized to use the system are known as Registered user 
+state true or false
+ 
+a. true #########
+b. false
+
+33> load /demand is expressed as of the following 
+select one
+
+a.hits per day
+b.hits per hour
+c.hits per second
+d.all of the listed options ##########
+
+34> In c++ and java language which is used in the declaration to create a virtual method without any body
+
+select one 
+a.void
+b.virtual
+c.abstract ########
+d.empty
+
+35> Which of the following techniques is used to link together the related attributes and procedures to form an object
+
+selct one 
+a. object linking
+b. encapsulation #####
+c. abstraction
+d. inheritance
+
+36> which of the following combines white box techniques with black box input testing 
+
+i. sanity
+ii.Grey box testing 
+
+select one 
+
+a.neither i or ii
+b.both i and ii
+c.i
+d.ii ###########
+
+37> White-box testing = unit testing
+
+state true or false
+
+selct one
+
+a.true ###########
+b.false
+
+38> The core components, registry and repository, business processes, trading partner agreements are declined in defined in which of the following standards of web services
+select one 
+
+a. WSDL
+b. UDDI
+c. e-business XML #########
+d. SOAP
+
+39> which of the following is not the major element of WSDL document that describes a web service
+
+select one
+a.<binding>
+b.<message>
+c.<attribute> ########
+d.<port type>
+
+ 
+
+The "Probability of Failure" defines the likelihood of a particular failing functionality and the "Impact of Failure" defines
+the impact of not detecting the failure.
+State True or False.
+Select one:
+O True #############
+O False
+
+What iS ADPART?
+Select one:
+ a. A quantitative RiSk Based Testing Utility, which enables the business and testing to prioritize requirements according to
+     importance
+ b. A model driven approach towards test case generation and regression suite identification ############
+ c. None of the listed options
+ d. A statistical way of testing pair wise interactions
+
+which Of the following statements are TRUE?
+SElECt one or more
+ a. In a messaging-based communication model, the client sends an XML document and the server application receives the
+    XML as a W3C document object fOr processing. It is MANDATORY fOr the service to send a response back t0 the client.
+ b. In an RPC-based communication model, a service client invokes the exposed method and a response is NOT returned.
+ c. ln an RPC-based communication model, a service client invokes the exposed method and a response is returned.##########
+ d. In a messaging-based communication model, the client sends an XML document and the server application receives the
+    XML as a W3C Document object for processing. It is NOT MANDATORY for the service to send a response back to the client ##########
+
+
+Risk Based Testing (RBT) helps a project to balance risk with project constraints SUCH as, schedule, resource, and COst.
+State true or False.
+Select one:
+O True ##########
+O False
+
+
+The core components, registry and repository, business processes, trading partner agreements are de?ned in which of the
+following standards of web services?
+Select one:
+Q a. UDDI
+Q o. SOAP
+Q c. WSDL
+Q 0. e-business XML(ebXML)###########
+
+Web services describe architecture based on which Of the following?
+select one:
+Q a. REST ##############
+Q b. Reusable Application Components
+Q c. Remote Procedure Calls
+O d. None of the listed options
+
+Which of the given methods describe static testing?
+Select one or more:
+a. Code gap analysis by the use of sequence diagram ###############
+b. Usability testing
+c. Behavioral Testing
+d. Identification of logic-bomb codes that can harm the system #########
+
+Deep structure testing is NOT designed to which of the following?
+Select one:
+ a. Exercise structure observable by the user#######
+ b. Exercise communication mechanisms
+ c. Examine object behaviors
+ d. Exercise object dependencies
+
+When is White Box Testing performed?
+Select one:
+ a. Early in the testing process ############
+ b. All of the listed options
+ c. Later stages of testing
+ d. Maintenance and production support
+
+
+Use Case diagrams specify how a user task is implemented.
+State True or False.
+Select one:
+O True
+O False ############
+
+Interactions between objects take place in WhiCh diagram?
+Select one:
+ a. State
+ b. Collaboration #############
+ c. Component
+ d. Class
+
+
+Statement Coverage Will NOT check for which Of the fOllOWing?
+select one:
+Q a. Dead Code
+Q b. Missing Statements ##########
+Q c. Unused Statement
+Q d. Unused Branches
+
+
+
+In ShiftLeft approach, QA is involved in all the phases of SDLC such as Requirements, Design, Development, Test and
+Implementation.
+State True or False.
+Select one:
+O True ############
+O False
+
+In Shift Left approach, Testing activities usually carried out in testing phase of waterfall model are moved to which of the earlier
+phases listed below?
+Select one:
+Q a. All of the listed options ############
+Q b. Design
+O c. Development
+Q d. Requirements
+
+States are indicated to mention the mile stones of processing in the activity diagrams.
+State True or False.
+Select one:
+ true ###########
+ False
+
+Which of the following techniques is used to link together the related attributes and procedures to form an object?
+select one:
+ a. Inheritance
+ b. Object linking
+ c. Abstraction
+ d. Encapsulation ##############
+
+What is the objective Of carrying OUT defect prevention activities in a testing cycle?
+Select one or more:
+a. To address root causes of defects to prevent their occurrence later ##########
+b. To eliminate all defects in project
+c. To identify defective modules and defer them from development
+d. To minimize the number of defects and their severe impact on projects.##########
+
+In Shift Left approach, even Automation & Non-functional testing plans can get started in early phases like, Requirements or
+Design phase.
+State True or False.
+Select one:
+Q True
+O False ##########
+
+From the given options, identify the valid behaviors Of the order from as seen in the attached image
+TO: BOb Jones       ORDER
+    555 Fifth Street
+    Fifth floor
+    New york,new york 10022            
+                                    Customer number:1234567
+[tables with some values]
+
+Select one or more:
+ a. Process Order ##############
+ b. Delete Order
+ c. Enter order information
+ d. Create new customer
+
+Concurrent Users are also known as:
+Select one:
+Q a. Simultaneous Users.
+Q b. Active Users.###########
+Q c. Peak Users.
+Q d. Registered Users.
+
+Choose the Golden Rule(s) for MVC from the following.
+Select one or more:
+ a. A View generates output based on the model changes
+ b. A Controller sends the command to the model
+ c. The model represents the data, and does nothing else #########
+ d. The model does NOT depend on the controller or the view ###########
+
+Volume testing checks on WhiCh Of the following?
+Select one:
+Q a. Robustness and reliability of the system when handling Large data ########
+Q b. Most complex situations
+Q c. Stability and reliability of the system
+Q d. How the application scales with increase in number of users
+
+Non-Functional Testing covers which of the following?
+Select one:
+Q a. Security Testing and Performance Testing ###########
+Q o. Unit testing
+Q c. Security Testing
+Q d. Performance Testing
+
+which of the following testing tools is an open source functional Testing Tool, designed for testing IOS and android native
+applications, using record and playback method?
+Select one:
+Q a. Monkey Tool----------
+O b. Selenium Tool
+Q c. Robotium Tool
+Q d. Activity Testing tool
+
+CHOOSE the MVC Frameworks that are executable at the client level from the below
+Select one or more:(check box)
+ a. JSP
+ b. Struts 2.0
+ c. Angular js ######
+ d. Backbone #######
+
+Model does not depend on the controller or View.
+State True or False.
+Select one:
+O True ##########
+O False
+
+Each time when you add a new defect, from which of the following ?elds does ALM store list of keywords?
+Select one:
+Q a. Summary and Subject fields
+Q b. Summary and Description fields ##########
+Q c. Summary ?eld only
+Q d. Subject and Description fields
+
+You can periodically update defects directly in which of the following?
+Select one:
+Q a. Defects Grid only
+Q b. Defects Grid or Defect Details dialog box ##########
+Q c. Defect Details dialog box only
+Q d. None of the listed options
+
+iPhone Simulator does not emulate an iPhone processor, disk drive or memory constraints.
+State True of False.
+Select one:
+O True ############
+O False
+
+A defect can be linked to an entity like Run Step or Test or Run Step:
+Select one:
+Q a. indirectly only.
+Q b. directly only.
+Q c. none of the listed options.
+Q d. directly or indirectly.############
+
+How would you categorize the "waste" of having multiple issue tracking systems?
+Select one:
+ a. Waiting waste
+ b. All of the listed options#########
+ c. Motion waste
+ d. Knowledge waste
+
+What role does source control play in a DevOps org?
+Select one:
+Q a. Monitor the health of the system
+Q o. None of the listed options
+Q c. Controlled repository for code, configuration and infrastructure manifests #########
+Q d. Planning out each software release
+
+
+Successful DevOps requires a new team dedicated to carrying out deployment and optimization tasks
+State True or False.
+Select one:
+O True #########
+O False
+
+On what basis, will you choose a framework for your tool?
+select one
+ a. Re-usability Of automation codes
+ b. Minimal maintenance effort
+ c. Execution ef?ciency
+ d. All of the listed options #############
+
+In WhiCh Of the following conditions does automation SCOPE over manual testing?
+Select one:
+ a. All of the listed options ##########
+ b. Accelerates testing process
+ c. Better test path coverage
+ d. Effective Iterative regression testing
+
+
+Which of the following is the framework developed by Cognizant?
+Select one:
+ a. Junit
+ o. CRAFT#########
+ c. ECAF
+ d. TestNG
+
+Which of the following statements are TRUE with respect to Scrum meeting?
+I. During the scrum meeting each team member will update 3 points (What he did since last scrum meeting, what is he going to do
+till t0morrow’s meeting, any impediments)
+II. Nothing but a status meeting where the team updates the status to the management on daily basis
+III. All members including the stakeholders can speak in the scrum meeting
+IV. Team will update the sprint bum down chart
+Select one:
+ a. Only I
+ b. Only III
+ c. Only IV
+ d. Only II
+ e. I and IV##########
+
+Extreme Programming teams are amenable to changes within a sprint.
+State True or False.
+Select one:
+O True###########
+O False
+
+Which of the following is the difference between Traditional PM and Agile PM?
+
+I. Traditional PM - Project management oflice standardizes the processes.
+Agile PM - Project Team facilitated by the Scrum Master is responsible for de?ning, implementing and continuously improving the
+processes. Project manager supports the team to achieve this.
+
+II. Traditional PM - Tracks and reports progress. Manages overall cost and schedule.
+Agile PM - Project Team facilitated by the Scrum Master is responsible for tracking and monitoring their own progress. Bum down
+chart is part of the process. Project manager supports the team to overcome road blocks
+
+III. Traditional PM -Project team is responsible for functional management of team members including assigning tasks, obtaining
+commitments and making any functional decisions
+Agile PM - Functional Managers provide direct management of all team members in the project.
+
+select one 
+ a. Only |||
+ o. Only ||
+ c. |, ||, and |||
+ d.Only l
+ e.l and ll#######
+
+
+
+1.In Scrum,it is recommended that a resource can play both Product Owner and Scrum master role.
+  State True or False.
+  (a) True
+  (b) False---------ans
+
+
+2.What are the disadvantages of waterfall method over agile projects?
+  I.Late Feedback
+  II.Late identification of error
+  III.Charges are costly
+
+  Select one:
+  (a) I,II and III-------------ans
+  (b) Both I and II
+  (C) Only II
+  (D) Only III
+  (e) Only I
+
+3.A Sprint Backlog is:
+
+   Select one:
+  (a) a set of high priority requirements taken by the team for the sprint.----ans
+    -------ans (a)
+
+  (b) a prioritized list of high level requirements handed over the team by Scrum Master.
+  (c) a set of itemsthat can be modifies during the sprint.
+  (d) a prioritized list of high level requirements handed over to the team by Product Owner.
+
+4. Which of the following are NOT the features of good framework?
+
+   Select one:
+  (a) Maximum code reusability
+  (b) Detailed reporting mechanism
+  (c) Test data externalization
+  (d) Maximum maintainance effort--------ans
+
+5.What is the best way to reduce automation costs with valid assumptions?
+
+  Select one:
+  (a) Usage of open source automation tools------------
+  (b) Reduce the number of automation resources
+   -------------ans(b)
+  (c) Reduce scope of automation
+  (d) Plan for stricter deadlines
+
+6.Automation Framework is a replacement for an automation tool.
+  State True or False.
+
+  Select one:
+  (a) True
+  (b) False------------
+
+7.Identify the key aspects or principle behind DevOps.
+
+  Select one:
+  (a) All of the listed options------------------
+  (b) Security
+  (c) Continuous deployment
+  (d) Automation 
+  (e) Infrastructure as code
+
+8.Speed to market is a competitive advantage.
+  State True or False.
+
+  Select one:
+  (a) True---------ans
+  (b) False
+
+9.Identify the 2 core operations of DevOps with respect to Application Infrastructure from the following.
+
+  Select one or more:
+  (a) Deployment
+  (b) Configuration----------ans
+  (c) Provisioning-----------ans
+  (d) Packaging
+
+10.When defining a test configuration, you define data by setting test parameter values for each test configuration.
+   State True or False.
+   
+   Select one:
+   (a) True--------------ans
+   (b) False
+
+11.From the given options,identify the valid option that lists out all architectural components of HP ALM.
+
+   Select one:
+   (a) Client;Application Server;Database Server---------------------
+       --------------ans(a)
+   (b) Client;Application Server;Database Server;Print Server
+   (c) Client;Application Server
+   (d) Client;Application Server;Print Server;Chat Server
+
+12.In Requirements module of HP ALM,requirement related topics are recorded by creating which of the following?
+
+   Select one:
+   (a) Requirements tree---------------ans
+   (b) Requirements cycle
+   (c) Requirements generator
+   (d) Requirements plan
+
+13.Which app is built for a specific platform with thw platform SDK,tools and languages,typically provided by the platform vendor?
+  
+   Select one:
+   (a) None of the listed options
+   (b) Native---------------------ans
+   (C) Web-based
+   (d) Hybrid
+
+14.What are the main challenges of Mobile Applications Testing?
+
+    Select one:
+    (a) Limitations in Mobile devices processing speed
+    (b) Multiple types of Network such as 2G/3G etc.
+    (c) Varied screen resolutions and rendering differences in mobile devices
+    (d) All of the listed options----------------------ans
+
+15.Choose the statements that apply to Controller from the following.
+
+    Select one or more:
+    (a) Controller displays the model data
+    (b) Controller requests data from Model-------------------------ans
+    (C) Controller interprets user interactions---------------------ans
+    (d) Controller represents the data
+
+16.Model-View-Controller(MVC) is a software architecture pattern for developing windows application.It is handled by three main logical components.
+ 
+    Select one:
+    (a) TRUE
+    (B) FALSE----------------------------ans
+
+17.A model could be a single object, or a structure of objects.
+   State True or False.
+
+   Select one:
+   (a) True-----------------------ans
+   (b) False
+
+18.Which of the following are the application areas of Security Testing?
+ 
+    I.Web Application
+    II.Mobile Application
+    III.Internet of Things
+    IV.Data Warehousing Projects
+
+    Select one:
+    (a) I,II,III and IV---------------------ans
+    (b) I and IV
+    (c) I,II and III
+    (d) II and III
+
+19.Identify the screen reader for Android device from the following.
+
+    Select one:
+    (a) JAWS
+    (b) Talk Back------------------------ans
+    (c) Voice MACHINE
+    (d) NVDA
+
+20.Which of the following is NOT a valid Performance Test?
+   
+   Select one:
+   (a) Functional Test------------------------ans
+   (b) Endurance Test
+   (c) Stress Test
+   (d) Load Test
+
+21.What is the type of inheritance in which two or more levels of inheritance exists, and each level consists of a parent-child relationship?
+  
+   Select one:
+   (a) Level inheritance--------------------------------ans
+   (b) Simple inheritance
+   (c) Parent-Child inheritance
+   (d) Multiple inheritance
+
+22.Which of the following programming languages supports usage of Interface?
+ 
+   Select one or more:
+   (a) Java---------------------
+   (b) C++-------
+   (c) C
+   (d) C#--------
+
+
+23.Shift Left model approach of quality assurance is a lot like Reactive care.
+   State True or False.
+ 
+   Select one:
+   (a) True
+   (b) False-----------------------------ans
+
+
+24.Which of the following is the automation of the Build and Deployment Process,which in turn will trigger the automated Smoke Test Suite?
+
+   Select one:
+   (a) Early Automation
+   (b) Continuous Integration----------------------------------ans
+   (c) Code Profiling
+   (d) End to End Automation
+
+
+25.In ShiftLeft approach,QA is involved in all the phases of SDLC such as Requirements,Design,Development,Test and Implementation.
+   State True or False.
+
+   Select one:
+   (a) True-----------------------ans
+   (b) False
+
+
+26.Project team should involve testing team during 'Code Walkthrough and Review' activity is a pre-requisite, for which of the below Shift Left Lever?
+
+   Select one:
+   (a) Code Profiling------------------------ans
+   (b) Early Testing
+   (c) Continuous Integration
+   (d) Pre QA Testing
+
+
+27.Unified Modeling Language(UML),is a standard language for designing and documenting a system in an object-oriented manner.
+   State True or False.
+
+   Select one:
+   (a) True-------------------------------ans
+   (b) False
+
+
+28.Which of the structural diagrams best help in budgeting the hardware required for the system?
+
+   Select one:
+   (a) Deployment diagrams-------------------------------ans
+   (b) Component diagrams
+   (c) Class diagrams
+   (d) Package diagrams
+
+29.States are indicated to mention the mile stones of processing in the activity diagrams.
+   State True or False.
+
+   Select one:
+   (a) True------------------------------------ans
+   (b) False
+
+30.Which of the following is the odd one out from the following?
+
+   Select one:
+   (a) White box
+   (b) Glass box
+   (c) Structural
+   (d) Functional--------------------------------ans
+
+31.The process of examining the source code of a project by an unbiased engineer,to validate the design and implementation of a product at the most basic level is called:
+ 
+   Select one:
+   (a) Unit testing
+   (b) Black Box testing
+   (c) Code Review------------------------------ans
+   (d) Grey box testing
+
+32.The Exclusive use of white box testing in a test-phase will:
+
+   Select one:
+   (a) run the risk that the requirements are not satisfied------ans
+      ------------------------ans
+   (b) ensure the test item is adequately tested
+   (C) make the need for black-box testing redundant
+   (d) suffice for the unit testing phase
+
+33.What is the other name for white box testing?
+
+   Select one:
+   (a) Structural Testing
+   (b) Transparent box testing
+   (c) All of the listed options-----------------------ans
+   (d) Clear box testing
+
+34.The core components,registry and repositiry,business processed,trading partner agreements are defined in which of the following standards of web services?
+  
+   Select one:
+   (a) WSDL
+   (b) SOAP
+   (c) UDDI
+   (d) e-business XML(ebXML)--------------------------ans
+
+35.The base specification of WSDL defines which of the following WSDL binding extension?
+
+   Select one or more:
+   (a) MIME binding------------
+   (b) Html binding
+   (c) SOAP binding******----------
+   (d) HTTP GET &amp;POST binding---------------
+
+36.Testing REST Web services constitutes which of the following three levels?
+
+   Select one or more:
+   (a) Application Level---------
+   (b) Resource Level-------------
+   (C) Interface Level
+   (d) Message Level*******-----
+
+37.What are the key features of ADPART?
+
+   Select one:
+   (a) All of the listed options------------------------------------ans
+   (b) Performs regression analysis
+   (c) Generates rule based test cases
+   (d) Helps in tracing requirements
+   (e) Includes Model business flows
+
+38.Risk Inspired Scenerio Evaluator(RISE) is a qualitative Risk Based Testing Utility,which enables the Business and Testing to prioritize requirements according to importance.
+   State True or False.
+
+   Select one:
+   (a) True------------------------------------------ans
+   (b) False
+
+40.OATS(Orthogonal Array Testing Strategy) is a systematic way of testing pair-wise interactions.
+   State True or False.
+  
+   SELECT ONE:
+   (a) True-----------------------------------------ans
+   (b) False 
+
+
+    
+How can we improve the quality of a application by using Risk Based Testing (RBT)?
+Select one or more:
+a. Provide visibility into the risk ofdeivery (Go Live) based on the system stability at various levels of testing--------
+b, Spend high effort, high cost
+c, Test all critical business processes and associated critical sub processes thoroughly****************
+d. Prioritize businiess functionaities**************
+
+Which Of the folowing is the right tool/ framework that is Cognizant's utility and is used only for risk based testing (RBT)?
+Select one:
+a. TNO
+b. All Pais
+c. RISE**************
+d. OAT
+
+
+
+The Technology stack of Web services include which of the folowing?
+Select one or more:
+a. HTTP
+b. XML********
+c. SOAP UI********
+d. UDDI**********
+
+
+The base speci?cation of WSDL defines which of the folowing WSDL binding extension?
+Select one or more:
+a.HTTP GET &amp; POST binding***********
+b. SOAP bindng*************
+c.Html binding
+d. MIME binding*****************
+
+
+
+White Box Testing is mainly applicable to which levels of testing?
+Select one or more:
+a. System Testing*********
+b. Integration Testing.***********
+c. Acceptance Testing
+d. Unit Testing*************
+
+
+The Exclusive use of white box testing in a test-phase will:
+Select one:
+a. ensure the test item is adequately tested.
+b. run the risk that the requirements are not satisfied.**********
+c. suffice for the unit testing phase.
+d. make the need for black-box testing redundant.
+
+
+Which of the following is white box testing framework?
+Select one:
+a. Clover
+b. JUnit**************
+c. TBrun
+d. JTest
+
+
+Web services describe architecture based on which of the following?
+select one
+a.None of the listed options
+b.Reusable Application Components
+c.Remote Picture Calls 
+d.REST---------------
+
+
+Component diagrams are useful with teams of larger size.
+State True or False.
+true**************
+false
+
+
+
+What are the three goals we focus on when creating UML diagrams‘?
+a. Standards, Color, and Tools
+b. Visualize, Specify, and Document***********
+c. Readable, Focused, and Precise
+d. Audience, Readable, and Focused
+
+
+
+which of the following is the odd one out from the folowing?
+
+Select one:
+
+a.Functional*******************
+b.White box
+c.Structural
+d.Glass box
+
+What is the name of Cognizant proprietary tool that helps in modeling the requirements ‘nto activity diagrams and helps ‘n automatic test case generation and regression suite
+identification using in-built path traversal algorithm?
+Select one:
+a. RISE
+b. All pais
+c. ADPART***************
+d.TNO
+
+
+In Shift Left approach, Testing activities usually carried out in testing phase of waterfall model are moved to which of the earlier phases listed below?
+
+Select one:
+
+a.Requirements
+b.Development
+c.Design
+d. All of the listed options****************
+
+
+Project team should involve tesfng team durhg ‘Code Walkthrough and Review‘ activity is a pre-requisite, for which of the below Shift Le? Lever?
+Select one:
+a. Continuous Integration
+b. Code Profiling****************
+c. Pre OA Testing
+d. Early Testiig
+
+
+Use Case diagrams specify how a user task is implemented.
+State True or False.
+Select one:
+True
+False*****************
+
+
+
+
+In which of the following options, ample opportunity will be provided for fine tuning the code to adjust the functionality of the project?
+a.shift Right
+b.Shift None
+c.All of the listed options
+d.Shift Left--------------
+
+
+
+
+
+1)Identify the Agile methodology which mandates engineering practices like Automation, Test driven development etc.
+a) Scrum
+b)Extreme Programming*******
+c)FDD
+d)Kanban
+
+2)Identify the valid inputs for Sprint Planning meeting.
+a)Sprint Backlog 
+b)Product Backlog
+c)Past performance of the team
+d)Latest increment of the product
+e)Product Backlog, Latest increment of the product aand Sprint backlog*********
+
+3)In Scrum , a Chicken is:
+I. Team
+II.Scrum Master 
+III.Product Owner
+
+Select one:
+a) Only I
+b) I,II, and III
+c)Only II
+d)Only III*******
+
+4)Why do you need to go for automation framework?
+I.Re-usability
+II.Efficiency
+III.To develop automation quickly for another application 
+
+Select one :
+a) I and II
+b) I, II and III**********
+c) II and III
+d) I and III
+
+5)Automation testing is cost effective in which of the following areas?
+I. Resources
+II.Time
+
+Select one:
+a) Both I and II-------
+b) Neither I nor II
+c) II
+d) I
+
+6) "Each test contributes to the specification of desird behaviour". Which is the feature , pretaining to automation testing?
+ Select one :
+a) Sufficient 
+b) Necessary********************** 
+c) Roboust
+d) Concise
+
+7)Speed to market is a competitive advantage.
+a)True*******************
+b)False 
+
+8)Identify the key aspects or principle behind DevOps.
+a) infrastructure as code
+b)Security 
+c)Continuous deployement 
+d) Automation
+e) All of the listed option*************
+
+9)Which collaboration tool makes the most sense for persistant information?
+a) None of the listed option
+b)GitHub Wiki*******************
+c)Stack
+d)Skype
+
+10)If user wants to display data from various modules, which type of graph should the user choose from the options listed below?
+a)Entity Graph******************************* 
+b)Bussiness View graph
+c)Both Entity Graph and Bussiness View graph
+d)None of the listed options
+
+11. In Requirements module of HP ALM, requirement related topics are recorded by creating which of the following?
+
+    Select one:
+     a. Requirements cycle
+     b. Requirements plan
+     c. Requirements tree----------ans
+     d. Requirements generator
+
+
+12. Each time when you add a new defect, from which of the following ?elds does ALM store list of keywords?
+
+    Select one:
+     a. Summary field only
+     b. Summary and Subject ?elds
+     c. Subject and Description fields
+     d. Summary and Description fields------ans
+
+
+13. Which of the following refers to making software, specifically designed for a specific locality?
+
+    Select one:
+    a. Localzation Testing--------ans
+    b. Interruption testiig
+    c. Ramp Testing
+    d. Path Testing
+
+
+14. Robotium supports i0S as well as Android apps automation.
+    State True or False
+
+    Select one:
+      True
+      False----------ans
+
+
+15. MVC Framework is adapted only in Java/J2EE Technology Stack,
+    State True or False.
+
+    Select one:
+     True
+     False-----------ans
+
+
+16. Choose the statements that apply to Controller from the fotlowilg.
+
+    Select one or more:
+     a. Controller displays the model data
+     b. Controller requests data from Model-------ans
+     c. Controller represents the data
+     d. Controller interprets user interactions---ans
+
+
+17. A model could be a single object, or a structure of objects.
+    State True of False.
+
+    Select one:
+     True----------ans
+     False
+
+
+18. Hearing loss can be overcome by using Read and Write Help software, such as Read and Write Gold.
+    State True or False.
+
+    Select one:
+     True
+     False-------ans
+
+19) ENdurance tests helps to find any memory leak issues.
+a)True***********
+b)False 
+
+20) What is Vulnerability Scanning?
+a) Vulnerability scanning and manual assessment
+b) Automated scanning using tools**********
+c)Vulnerability scanning, manual assessment and exploitation
+d)None of the listed options
+
+21) UML sequence diagrams are usually all-inclusive diagrams.
+a)True************* 
+b)False
+
+22) A programmer controls access to attributes and procedures of a class by using access specifiers within a class definition.
+Select one or more:
+
+a) Private****************** 
+b) Protected************** 
+c) Public*********************** 
+d) Global 
+
+23)Which of the following is the automation of the Build and Deployment Process, which in turn will trigger the automated Smoke Test Suite?
+a) Early Automation
+b) Continuous Integration*********************
+c) Code Profilling 
+d) End to End Automation 
+
+24. In which of the following options, ample opportunity will be provided for fine tuning the code to adjust the functionaity of the project?
+    
+    Select one:
+     a. Shift None
+     b. Shit Left---------------------ans
+     c. All of the listed options
+     d. Shift Right
+
+
+25. In Shift Left approach, even Automation & Non~functional testing plans can get started in early phases like, Requirements or Design phase.
+    State True or False.
+
+    Select one:
+      true---------------ans
+      False
+
+
+26. Shift Left model approach of quality assurance is a lot like Reactive care.
+    State True or False.
+
+    Select one:
+     True
+     False-------------ans
+
+27. Which of the structural diagrams best help in budgeting the hardware required for the system?
+
+    Select one:
+     a. Deployment diagrams-------ans
+     b. Packagediagrams
+     c. Component diagrams
+     d. Class diagrams 
+
+28) What are the three goals we focus on when creating UML diagrams?
+
+a) Visualize, Specify and Document************* 
+b) Readable, Focused and Precise 
+c) Standards , Colour and Tools
+d) Audience, Readable, and Focused
+
+29) Unified Modeling Language(UML), is a standard language for designing and documenting a system in an object-oriented manner.
+a)True**************
+b)False 
+
+30) Code review is performed on the code for which of the aspects given below?
+ 
+Select one or more:
+a) Empty try/catch/finally/switch blocks*****--------
+b) Boundary value analysis
+c) Dead code/Dead variables--------
+d) Empty if/while statements----------
+
+31) The process of examining the source code of project by an unbiased engineer , to validate the design and implementation of a product at the most basic level is called:
+a) Black Box testing 
+b) Code Review*******************
+c) Gray box testing 
+d) Unit testing
+
+32) Code coverage is used as a measure of which of the following?
+a) Test Effectiveness************** 
+b) Defects 
+c) Time Spent Testing
+d) Trends analysis
+
+33)  Which of the following is NOT a white box testing?
+a) Statement testing
+b) State transition testing******************** 
+c) Data flow testing
+d) Path testing
+
+34. The structural format of a SOAP message (as per SOAP version 141 ) contains which ofthe folmving MANDATORY elements?
+    
+    Select one or more:
+     a. Header
+     b. Envelope--------------ans
+     c. Body------------------ans
+     d. Attachment
+
+
+35. The base speci?cation ofWSDL de?nes which of the folmving WSDL binding extension?
+
+    Select one or more:
+     a. MIME binding--------------------ans
+     b. SOAP binding--------------------ans
+     c. HTTP GET &amp; POST binding-----ans
+     d. Html binding
+
+
+36. Coding/decoding, and transporting the data is performed by which of the following ?
+   
+    Select one:
+     a. XML and UDDI respectively
+     b. XML and SOAP respectively-------ans
+     c. HTML and HTTP respectively
+     d. HTML and SOAP respectively
+
+
+37. What are the key features of Risk Based Testiig (RBT) ?
+
+   Select one:
+   a. All of the listed options------------ans
+   b. Reduces QA cost
+   c. Identifies critical defects at an early stage of tesfng
+   d. Increases involvement between Business
+   e. Increases the Tine-to~Market
+
+
+38. Risk Based Testing (RBT) helps a project to balance risk with project constraints such as, schedule, resource, and cost.
+    State True or False.
+    
+     Select one:
+       True-----------ans
+       False
+
+
+39. The ‘Probabiily of Failure‘ defnes the |il(B|i'l00d of a particular famg functionality and the ' Impact of Failure“ defnes the impact of not detectilg the faiure
+    State True or False.
+
+     Select one:
+      True-----------ans
+      False
+
+
+40. RISE = Risk Inspired Scenario Evaluator
+    State True or False.
+   
+      Select one:
+        True----------ans
+        False
+
+
+
+1) Identify an Agile methodology which mandates engineering practices like Automation, Test driven development etc.
+Select one:
+a. Extreme Programming
+b. Scrum
+c. FDD
+d. Kanban
+Answer: a
+
+2) Which of the following is the recommended approach to design in an Agile project?
+Select one:
+a. Design has no place in Agile
+b. Design upfront as per need - it gives a good foundation to start from, and helps to mitigate risk, without unncessarily washing time
+c. Use a previous design - it will be good enough
+d. Always use a Big design upfront - it is mandatory
+answer: b
+
+3) Which of the following meetings is NOT part of the Scrum?
+Select one:
+a. Sprint planning meeting
+b. Product review meeting
+c. Sprint retrospective meeting
+d. Sprint review meeting
+answer: b
+
+4) On what basis, will you choose a framework for your tool?
+Select one:
+a. Re-usability of automation codes
+b. Minimal maintenance effort
+c. All of the listed options
+d.Execution efficiency
+answer: c
+
+5) What is the best way to reduce automation costs with valid assumptions?
+Select one:
+a. Plan for stricter deadlines
+b. Reduce the number of automation resources
+ c. Reduce scope of automation
+d. Usage of open source automation tools
+answer: d
+
+6) Test tool compatibility with the application and test environment is done in which of the following phase?
+Select one or more:
+a. Test tool acquisition
+b. Test planning, design and development
+c. Test planning
+d. Test execution
+answer: a,b
+
+7) How would you categorize the "waste" of having multiple issue tracking systems?
+Select one:
+a. Motion waste
+b. Waiting waste
+c.All of the listed options
+d. Knowledge waste
+answer: c
+
+8) What role does source control play in a DevOps org?
+Select one:
+a. Planning out each software release
+b. Monitor the health of the system
+c. None of the listed options
+d. Controlled repository for code, configuration and infrastructure manifests
+answer: d
+
+9) What is Continuous Testing in DevOps?
+I. Testing is done throughout the process starting from Dev to Prod
+II. Testing is done only in Testing phase
+Select one:
+a. Only I
+b. Neither I nor II
+c. Both I and II
+d. Only II
+answer: a
+
+10) Coverage analysis view displays which of the following information?
+Select one or more:
+a. Number of test cases which have not been yet executed
+b. Number of requirements which have  been covered and not covered
+c. Number of test cases which have failed and passed
+d. Number of defects logged against each requirement
+answer: abc
+
+11) You can periodically update defects in which of the following?
+Select one:
+a. Defects Grid only
+b. Defects Grid or Defect Details dialog box
+c. Defect Details dialog box only
+d. None of the listed options
+answer: b
+
+12) A user can add a new defect to an HP ALM project from any module at any stage of the testing process.
+Select one:
+True
+False
+answer :True
+
+13) Gaming Apps which require rich user expreience and access to device specific feature are typically developed as which of the following types of applications?
+Select one:
+a. Web
+b. All of the options
+c. MEAP
+d. Native
+answer: b
+
+14) Which of the following is the integrated development environment that manages your application projects and lets to edit, compile, run, and debug code?
+Select one:
+a. None of the listed options
+b. Mobile Device Management(MDM)
+c. Xcode
+d. DDMS
+answer: c
+
+15) A model could be a single object, or a structure of objects.
+State True or False.
+Select one:
+True
+False
+answer: True
+
+16) In some cases, Controller and View can be same Object.
+State True or False.
+Select one:
+True
+False
+answer: True
+
+17) The MVC Web Architecture is basically an interaction between Browser, Page and Database.
+State True or False.
+Select one:
+True
+False
+answer: True
+
+18) Security Scanning involves which of the following?
+Select one:
+a. Vulnerability assessment in ethical manner
+b. Vulnerability scanning and manual assessment
+c. Automated scanning using security tools
+d. Vulnerability scanning, manual assessment and exploitation
+answer: b
+
+19) OSSTMM stands for which of the following?
+Select one:
+a. Open Source Security Testing Manual Methodologies
+b. Open Source Software Testing Manual Methodologies
+c. Open Source Security Testing Methodology Manual
+d. Open Source Software Testing Methodology Manual
+answer: c
+
+20) What are the parameters measured during the Load test?
+Select the correct two answers from the below.
+Select one or more:
+a. Memory Leaks
+b. Capacity assessment
+c. Throughout
+d. Response Time
+answer: a and d(sure) others(don’t know)
+
+21) Abstract method can be called within a program.
+State True or False.
+Select one:
+True
+False
+answer: True
+
+22) Which diagram is used to simplify the overall understanding of a complex application?
+Select one:
+a. Processing model diagram
+b. An attribute diagram
+c. Levelling diagram
+d. Entity realtionship diagram
+answer: d
+
+
+
